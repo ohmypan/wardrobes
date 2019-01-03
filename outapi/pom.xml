@@ -13,7 +13,7 @@
     <artifactId>outapi</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>outapi</name>
-    <description>Demo project for Spring Boot</description>
+    <description>The interface for WeChat</description>
 
     <properties>
         <java.version>1.8</java.version>
