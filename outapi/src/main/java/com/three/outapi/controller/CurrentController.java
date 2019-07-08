@@ -23,6 +23,7 @@ public class CurrentController {
     CurrentService currentService;
     @RequestMapping("/getFoods")
     public ReturnObject getFoods(){
+        System.out.println("11111");
         return currentService.getFoods();
     }
 }
